@@ -6,3 +6,7 @@ for i in range (1, 10):
 
 for i in range (1, 10, 2):
     print(i)
+
+
+print("Hello World")
+print("zugeer printleed oruulsan oroldlogoo")
